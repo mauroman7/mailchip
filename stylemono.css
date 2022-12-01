@@ -1,0 +1,28 @@
+*{ margin: 10;
+   padding: 10;
+}
+
+.h1 { display: inline-block;
+    align-items: center; }
+
+.mono{
+    float: left;
+    position:top;
+    scale: 70%;
+}
+
+.boton{
+    float: center;
+    scale: 150%;
+    margin: 50px;
+}
+
+.ter{ height: 229px;
+    width: 523px;
+    margin-left: 51%;
+
+}
+
+.cuadro{
+    width: 100%px;
+}
